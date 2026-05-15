@@ -1,0 +1,15 @@
+# Data files
+IMDB Dataset.csv
+Bank_Marketing_Original_Data.csv
+placement.csv
+iris.json
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Local IDE files
+.vscode/
+.idea/
+*.ipynb_checkpoints/
